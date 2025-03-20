@@ -15,5 +15,5 @@ Este é um projeto de página pessoal inspirado em um layout moderno para exibi�
 - **JavaScript** → Interatividade nos botões de links  
 - **FontAwesome** → Ícones das redes sociais
 
-## 🚀 Como acessar?
+## 🔧 Como acessar?
 Acesse aqui: [portfolio](https://galvaoneto.github.io/Projeto01_Programe.io/)
