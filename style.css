@@ -46,6 +46,7 @@ button {
     cursor: pointer;
     transition: 0.3s;
     font-weight: bold;
+    margin: 5px;
 }
 
 button:hover {
@@ -69,3 +70,4 @@ button:hover {
 .redesSociais a:hover {
     color: #1DA1F2;
 }
+
